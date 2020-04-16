@@ -1,2 +1,2 @@
 # helloprogram
-its a simmple hello world program
+its a simple hello world program
